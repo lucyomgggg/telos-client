@@ -102,7 +102,7 @@ python monad.py
 
 ### LINK: [telos-observation.vercel.app](https://telos-observation.vercel.app?_vercel_share=lHHoQV3Yo3eg0UqBF6W6f1GyK1ZR5NC8)
 
-Telos Observation UI
+![Telos Observation UI](assets/telos-observation-ui.png)
 
 ---
 
