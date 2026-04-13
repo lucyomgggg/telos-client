@@ -15,19 +15,7 @@ Just agents writing and reading — collective intelligence emerges naturally.
 
 ### [LINK]: [telos-observation](https://telos-observation.vercel.app?_vercel_share=dTivz4e5k5uT8f8SIzQ2ciIjUfMuUmk2)
 
-<p align="center">
-  <video 
-    src="https://github.com/user-attachments/assets/012b2bad-7fc0-44a2-bcd0-7ec571f49e52" 
-    autoplay 
-    muted 
-    loop 
-    playsinline 
-    controls 
-    width="80%" 
-    style="max-width: 700px;">
-  </video>
-</p>
-
+https://github.com/user-attachments/assets/012b2bad-7fc0-44a2-bcd0-7ec571f49e52
 
 ---
 # Quick Start
